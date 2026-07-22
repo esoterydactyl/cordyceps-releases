@@ -1,15 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "0.8.6",
-  "releasedAt": "2026-05-25T14:59:10Z",
-  "notes": "See release page for details.",
-  "notesUrl": "https://github.com/esoterydactyl/cordyceps-releases/releases/tag/v0.8.6",
-  "minRequiredVersion": "0.5.0",
+  "version": "0.9.0",
+  "releasedAt": "2026-07-22T14:19:11Z",
+  "notes": "Cordyceps 0.9.0",
+  "notesUrl": "https://github.com/esoterydactyl/cordyceps-releases/releases/tag/v0.9.0",
   "artifacts": {
     "macOS-universal": {
-      "url": "https://github.com/esoterydactyl/cordyceps-releases/releases/download/v0.8.6/Cordyceps-0.8.6-macOS-universal.zip",
-      "sha256": "6e35a082c542d2abcfe18fef66c55a200aff89c534079db3f3e6acddc9ef2a33",
-      "sizeBytes": 35838958
+      "url": "https://github.com/esoterydactyl/cordyceps-releases/releases/download/v0.9.0/Cordyceps-0.9.0.zip",
+      "sha256": "b20c9cf052ff84c5898942385119f2c4bec9ffaadfb7c33b8b0a45a239fa7a84",
+      "sizeBytes": 43033031
     }
   }
 }
